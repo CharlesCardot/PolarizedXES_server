@@ -1,8 +1,0 @@
-{
-  "id": "fyuIWyl6BUf7",
-  "time": 1754426702,
-  "expires": 1754469902,
-  "event": "message",
-  "topic": "polarized-xes-upload",
-  "message": "\ud83d\udd16 Tag: 4dYXpgJC\n\u2699\ufe0f Oxidation states: Fe:3, O:-2, Ti:2\n\ud83d\udce6 File received: FeTiO3.cif\n\n# generated using pymatgen\ndata_FeTiO3\n_symmetry_space_group_name_H-M   R-3\n_cell_length_a   5.16891544\n_cell_length_b   5.16891544\n_cell_length_c   14.11394384\n_cell_angle_alpha   90.00000000\n_cell_angle_beta   90.00000000\n_cell_angle_gamma   120.00000000\n_symmetry_Int_Tables_number   148\n_chemical_formula_structural   TiFeO3\n_chemical_formula_sum   'Ti6 Fe6 O18'\n_cell_volume   326.57119201\n_cell_formula_units_Z   6\nloop_\n _symmetry_equiv_pos_site_id\n _symmetry_equiv_pos_as_xyz\n  1  'x, y, z'\n  2  '-x, -y, -z'\n  3  '-y, x-y, z'\n  4  'y, -x+y, -z'\n  5  '-x+y, -x, z'\n  6  'x-y, x, -z'\n  7  'x+2/3, y+1/3, z+1/3'\n  8  '-x+2/3, -y+1/3, -z+1/3'\n  9  '-y+2/3, x-y+1/3, z+1/3'\n  10  'y+2/3, -x+y+1/3, -z+1/3'\n  11  '-x+y+2/3, -x+1/3, z+1/3'\n  12  'x-y+2/3, x+1/3, -z+1/3'\n  13  'x+1/3, y+2/3, z+2/3'\n  14  '-x+1/3, -y+2/3, -z+2/3'\n  15  '-y+1/3, x-y+2/3, z+2/3'\n  16  'y+1/3, -x+y+2/3, -z+2/3'\n  17  '-x+y+1/3, -x+2/3, z+2/3'\n  18  'x-y+1/3, x+2/3, -z+2/3'\nloop_\n _atom_type_symbol\n _atom_type_oxidation_number\n  Ti4+  4.0\n  Fe2+  2.0\n  O2-  -2.0\nloop_\n _atom_site_type_symbol\n _atom_site_label\n _atom_site_symmetry_multiplicity\n _atom_site_fract_x\n _atom_site_fract_y\n _atom_site_fract_z\n _atom_site_occupancy\n  Ti4+  Ti0  6  0.00000000  0.00000000  0.14616050  1\n  Fe2+  Fe1  6  0.00000000  0.00000000  0.35532717  1\n  O2-  O2  18  0.01240633  0.37210117  0.42103917  1"
-}

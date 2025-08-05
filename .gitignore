@@ -1,5 +1,2 @@
 # Ignore folders with format like KMnO4_abcdef12 or BaCrO4_qwertyXY
 *_????????/
-
-# But do NOT ignore other folders
-!*/
